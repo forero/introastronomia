@@ -16,4 +16,7 @@ Big Ideas in Astronomy presents 11 Big Ideas, which explored using a range of ne
 https://astro4edu.org/bigideas/bigideas/
 
 Una idea que creo que hace falta: el espacio entre estrellas y galaxias no esta completamente vacio, esta lleno de gas. Todo esto para introducir el medio interestelar.
+(Idea comun que busca reversar: entre estrellas y galaxias el espacio esta vacio)
+
 Otra idea que creo importante, planetas, estrellas, galaxias y el universo mismo: todo se encuentra en un proceso de nacimiento y evolucion.
+(Idea comun que busca reversar: los objetos celestes tal como los vemos no cambian ni evolucionan y puede que sean eternos.)
