@@ -12,4 +12,8 @@ Terms: Fall 2021
 
 Big Ideas in Astronomy presents 11 Big Ideas, which explored using a range of nested elaborations(sub-ideas). These ideas provide a guiding framework for educators, policy makers and astronomers when considering the key concepts in their teaching, training sessions, outreach activities or resources development. These ideas are continually being refined via community input, and as our understanding of the Universe evolves.
 
+
 https://astro4edu.org/bigideas/bigideas/
+
+Una idea que creo que hace falta: el espacio entre estrellas y galaxias no esta completamente vacio, esta lleno de gas. Todo esto para introducir el medio interestelar.
+Otra idea que creo importante, planetas, estrellas, galaxias y el universo mismo: todo se encuentra en un proceso de nacimiento y evolucion.
