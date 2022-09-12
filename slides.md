@@ -5,3 +5,5 @@
 [04 - La esfera celeste](https://docs.google.com/presentation/d/1KYBQXTY6FgER6E65vKsIqvz2XiFN21i5ow1cdBh_eKA/edit?usp=sharing) 
 
 [05 - Mecanica celeste](https://docs.google.com/presentation/d/1zTDEUAIARM9qs3xjfBUvqmBaHWLhRs5pdkqyG8g_MMc/edit?usp=sharing)
+
+[06 - La Tierra y la Luna](https://docs.google.com/presentation/d/14Gc5_fXziOfWDasltdYdnQRuTag5mtHxdtnpPcII3WE/edit?usp=sharing)
