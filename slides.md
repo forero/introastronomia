@@ -6,4 +6,4 @@
 
 [05 - Mecanica celeste](https://docs.google.com/presentation/d/1zTDEUAIARM9qs3xjfBUvqmBaHWLhRs5pdkqyG8g_MMc/edit?usp=sharing)
 
-[06 - La Tierra y la Luna](https://docs.google.com/presentation/d/14Gc5_fXziOfWDasltdYdnQRuTag5mtHxdtnpPcII3WE/edit?usp=sharing)
+[06 - La Tierra](https://docs.google.com/presentation/d/14Gc5_fXziOfWDasltdYdnQRuTag5mtHxdtnpPcII3WE/edit?usp=sharing)
