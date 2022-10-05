@@ -7,3 +7,5 @@
 [05 - Mecanica celeste](https://docs.google.com/presentation/d/1zTDEUAIARM9qs3xjfBUvqmBaHWLhRs5pdkqyG8g_MMc/edit?usp=sharing)
 
 [06 - La Tierra](https://docs.google.com/presentation/d/14Gc5_fXziOfWDasltdYdnQRuTag5mtHxdtnpPcII3WE/edit?usp=sharing)
+
+[07 - Exoplanetas](https://docs.google.com/presentation/d/1wq-C-7rgU4ityQkRKEHMAxU1nnJhSVgmbIIvxnS5bUY/edit?usp=sharing)
