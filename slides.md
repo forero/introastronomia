@@ -9,3 +9,5 @@
 [06 - La Tierra](https://docs.google.com/presentation/d/14Gc5_fXziOfWDasltdYdnQRuTag5mtHxdtnpPcII3WE/edit?usp=sharing)
 
 [07 - Exoplanetas](https://docs.google.com/presentation/d/1wq-C-7rgU4ityQkRKEHMAxU1nnJhSVgmbIIvxnS5bUY/edit?usp=sharing)
+
+[08 - Estrellas](https://docs.google.com/presentation/d/1WhJPb9gIc2gXcBJOvxlqaU9SIcYBRj8sCeTpsJgZlXE/edit?usp=sharing)
