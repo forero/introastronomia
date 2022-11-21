@@ -17,3 +17,5 @@
 [10 - Nuestra galaxia](https://docs.google.com/presentation/d/1YVKPk0gI1u1oFAW8bML7t4Ni1rKr5buOqeC_lwIY7qI/edit?usp=sharing)
 
 [11 - Galaxias y la red cósmica](https://docs.google.com/presentation/d/1QeAgByxcJSbuUgTm3mFf5koqCBUpMo7LI8MCYBZVYWY/edit?usp=sharing)
+
+[12 - Cosmología Física](https://docs.google.com/presentation/d/1t0QTAxXGv0I4wkcXOsYuY57iuvy-XN0oAYp81Z-cHQw/edit?usp=sharing)
