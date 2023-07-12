@@ -20,3 +20,12 @@ Una idea que creo que hace falta: el espacio entre estrellas y galaxias no esta 
 
 Otra idea que creo importante, planetas, estrellas, galaxias y el universo mismo: todo se encuentra en un proceso de nacimiento y evolucion.
 (Idea comun que busca reversar: los objetos celestes tal como los vemos no cambian ni evolucionan y puede que sean eternos.)
+
+
+===
+
+Sgr A*
+
+* Medicion de la orbita https://iopscience.iop.org/article/10.1086/380188/pdf
+* Carta celeste https://scholarworks.sfasu.edu/cgi/viewcontent.cgi?article=1001&context=physicsandastronomy_facultypubs
+* Black hole math https://www.nasa.gov/sites/default/files/atoms/files/black_hole_math.pdf
