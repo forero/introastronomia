@@ -24,3 +24,7 @@
 
 13 [ Una Ventana al Cosmos ](https://www.youtube.com/watch?v=Y5EkI8uxrU0)
 
+14 [ 3 de noviembre de 2023 ](https://www.youtube.com/watch?v=aMSQZ4VPvHo)
+
+15 [ Proyecto - Introducción a la astronomía general ](https://www.youtube.com/watch?v=o1aLts4SM-M)
+
