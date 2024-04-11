@@ -1,3 +1,8 @@
+https://arxiv.org/abs/2312.04041
+Astronomy as a Field: A Guide for Aspiring Astrophysicists
+
+====
+
 https://www.mcgill.ca/study/2021-2022/courses/phys-320
 
 PHYS 320 Introductory Astrophysics (3 credits)
