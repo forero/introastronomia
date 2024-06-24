@@ -1,3 +1,8 @@
+https://www.explainthatstuff.com/
+Para explicaciones detalladas de diversos fenomenos fisicos
+
+======
+
 https://arxiv.org/abs/2312.04041
 Astronomy as a Field: A Guide for Aspiring Astrophysicists
 
