@@ -179,4 +179,3 @@ Las clases combinarán diversos métodos de enseñanza para maximizar el aprendi
 
 Este curso está respaldado por la experiencia del Dr. Jaime Ernesto Forero Romero, un reconocido investigador en astronomía y cosmología computacional, con una destacada trayectoria en la aplicación de técnicas de inteligencia artificial para el análisis de grandes conjuntos de datos astronómicos. Su participación en proyectos internacionales como DESI y LACEGAL aporta una perspectiva única y actualizada al curso.
 
-Los estudiantes tendrán acceso a materiales del curso de por vida y recibirán un certificado de finalización al completar satisfactoriamente todas las actividades y evaluaciones del curso.
