@@ -156,6 +156,7 @@ Las clases combinarán diversos métodos de enseñanza para maximizar el aprendi
 
 **Bibliografía principal:**
 - Universe, William J. Kaufmann III, Roger A. Freedman. Eight Edition. W. H. Freeman and Company. 2008.
+- "Leadership in Science and Technology: A Reference Handbook" editado por William Sims Bainbridge - Proporciona una visión completa del liderazgo en entornos científicos y tecnológicos.
 
 **Bibliografía secundaria:**
 1. Fundamental Astronomy. Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner. Sixth Edition. Springer. 2016.
