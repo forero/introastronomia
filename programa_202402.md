@@ -24,38 +24,6 @@ Este curso innovador combina un panorama amplio de la astronomía moderna con el
 
 A lo largo de 16 semanas, alternaremos entre temas astronómicos fundamentales y sesiones dedicadas al desarrollo de habilidades profesionales y de liderazgo. Este enfoque dual preparará a los estudiantes no solo para comprender los misterios del universo, sino también para destacar en sus futuras carreras científicas.
 
-## II. Objetivos
-
-1. Guiar a los estudiantes en el estudio y aplicación de conceptos físicos, matemáticos y computacionales necesarios para la creación de conocimiento astronómico.
-2. Desarrollar habilidades de liderazgo, innovación y gestión de proyectos en el contexto de la investigación astronómica.
-3. Fomentar el pensamiento crítico y la capacidad de identificar problemas significativos en astronomía.
-4. Mejorar las habilidades de comunicación científica y la capacidad de presentar ideas complejas de manera efectiva.
-5. Proporcionar una visión integral de las oportunidades profesionales en astronomía y campos relacionados.
-6. Cultivar una mentalidad emprendedora aplicada a la investigación científica y la resolución de problemas astronómicos.
-
-## III. Competencias a desarrollar
-
-1. **Comprensión conceptual:** Dominio de los conceptos fundamentales de la astronomía y la astrofísica, capacidad para explicar fenómenos astronómicos utilizando principios físicos.
-
-2. **Análisis cuantitativo:** Habilidad para realizar cálculos básicos relevantes en astronomía y para interpretar gráficos y datos astronómicos.
-
-3. **Pensamiento crítico y resolución de problemas:** Capacidad para evaluar críticamente hipótesis y teorías en astronomía, y para abordar problemas abiertos de manera sistemática e innovadora.
-
-4. **Habilidades observacionales:** Familiaridad con las técnicas básicas de observación astronómica y comprensión de cómo se obtienen y procesan los datos astronómicos.
-
-5. **Competencia tecnológica:** Familiaridad con software astronómico básico y comprensión de los principios de funcionamiento de los telescopios y otros instrumentos astronómicos.
-
-6. **Comunicación científica:** Habilidad para explicar conceptos astronómicos a audiencias diversas, escribir informes científicos y realizar presentaciones efectivas.
-
-7. **Liderazgo y gestión de proyectos:** Capacidad para planificar, ejecutar y liderar proyectos de investigación astronómica, incluyendo la gestión de recursos y equipos.
-
-8. **Innovación y emprendimiento:** Habilidad para identificar oportunidades de investigación, desarrollar ideas innovadoras y aplicar un enfoque emprendedor a la ciencia.
-
-9. **Colaboración interdisciplinaria:** Capacidad para trabajar eficazmente en equipos multidisciplinarios y en colaboraciones internacionales.
-
-10. **Ética y responsabilidad científica:** Comprensión de los aspectos éticos en la investigación astronómica y del impacto de la astronomía en la sociedad.
-
-## IV. Contenido por semanas
 # Temario del curso de Astronomía General
 
 ## Semana 1
