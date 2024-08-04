@@ -56,101 +56,119 @@ A lo largo de 16 semanas, alternaremos entre temas astronómicos fundamentales y
 10. **Ética y responsabilidad científica:** Comprensión de los aspectos éticos en la investigación astronómica y del impacto de la astronomía en la sociedad.
 
 ## IV. Contenido por semanas
+# Temario del curso de Astronomía General
 
-### Semana 1: Introducción a la astronomía moderna
+## Semana 1
+**Introducción y habilidades profesionales I**
 - Panorama actual de la astronomía
 - El papel de la astronomía en la ciencia contemporánea
-- La Unión Astronómica Internacional y su impacto global
+- Análisis de Ikigai
 
-### Semana 2: El pensamiento emprendedor en la ciencia y la astronomía
-- Introducción al pensamiento emprendedor en la ciencia
-- Identificación de oportunidades en la investigación astronómica
-- Desarrollo de una mentalidad innovadora
-
-### Semana 3: Pensando físicamente: Luz, materia y energía
+## Semana 2
+**Fundamentos de física para astronomía**
+- Leyes fundamentales de la física en contextos astronómicos
+- Análisis dimensional y órdenes de magnitud
 - Espectros y transiciones energéticas
 - Efecto Doppler y sus aplicaciones en astronomía
-- Observación de cuerpos celestes: técnicas básicas
 
-### Semana 4: Identificación de problemas: Cómo reconocer desafíos significativos en astronomía
-- Metodología para identificar problemas de investigación
-- Análisis de tendencias en la investigación astronómica
-- Ejercicios prácticos de identificación de problemas
+## Semana 3
+**Instrumentación astronómica y métodos observacionales**
+- Telescopios ópticos e infrarrojos
+- Radioastronomía y telescopios de ondas milimétricas
+- Astronomía de altas energías: rayos X y gamma
+- Técnicas de procesamiento y análisis de datos astronómicos
 
-### Semana 5: Exoplanetas y Ciencia Planetaria
+## Semana 4
+**Gravitación y Sistema Solar**
+- Gravitación y Leyes de Kepler
+- El Sistema Solar
+- Exploración espacial y descubrimientos recientes
+
+## Semana 5
+**Habilidades profesionales II**
+- Desarrollo de carrera en astronomía
+- Estrategias para pasantías y programas de posgrado
+- Creación de una presencia profesional (CV, LinkedIn, página web)
+- Análisis del mercado laboral en astronomía
+
+## Semana 6
+**Exoplanetas y astrobiología**
 - Métodos de detección de exoplanetas
-- Caracterización de atmósferas planetarias
+- Diversidad de sistemas planetarios
 - Habitabilidad y búsqueda de vida extraterrestre
+- El antropoceno
 
-### Semana 6: Comunicación científica efectiva
-- Técnicas para presentar ideas complejas de manera convincente
-- Escritura científica para publicaciones y propuestas
-- Presentaciones orales efectivas en conferencias
+## Semana 7
+**Estrellas: nacimiento y evolución**
+- Formación estelar y secuencia principal
+- Estructura interna de las estrellas
+- Clasificación espectral y diagrama H-R
+- Nucleosíntesis estelar
 
-### Semana 7: Estrellas y Astrofísica Estelar
-- Evolución estelar: del nacimiento a la muerte de las estrellas
-- Nucleosíntesis y origen de los elementos
-- Objetos compactos: enanas blancas, estrellas de neutrones y agujeros negros
+## Semana 8
+**Muerte estelar y objetos compactos**
+- Etapas finales de la evolución estelar
+- Supernovas y formación de elementos pesados
+- Enanas blancas, estrellas de neutrones y pulsares
+- Agujeros negros: propiedades y detección
 
-### Semana 8: Innovación en la investigación astronómica
-- Desarrollo de nuevas técnicas observacionales
-- Aplicación de inteligencia artificial en astronomía
-- Diseño de instrumentos astronómicos innovadores
+## Semana 9
+**Habilidades profesionales III**
+- Metas
+- Decisiones
+- Proyectos
+- Gestión de proyectos en astronomía
+- Colaboraciones internacionales en ciencia
+- Estrategias para obtener financiamiento y becas
 
-### Semana 9: Galaxias: Tipos, cúmulos, materia oscura y evolución galáctica
+## Semana 10
+**La Vía Láctea**
+- Estructura y componentes de nuestra galaxia
+- El centro galáctico y el agujero negro supermasivo
+- Poblaciones estelares y medio interestelar
+- Dinámica galáctica y materia oscura
+
+## Semana 11
+**Galaxias y evolución galáctica**
+- Tipos y clasificación de galaxias
 - Formación y evolución de galaxias
-- La Vía Láctea y el Grupo Local
-- Materia oscura en galaxias
+- Galaxias activas y cuásares
+- Cúmulos de galaxias y estructura a gran escala
 
-### Semana 10: Gestión de proyectos en astronomía
-- Planificación y ejecución de proyectos astronómicos
-- Gestión de recursos y presupuestos en investigación
-- Colaboraciones internacionales en astronomía
+## Semana 12
+**Habilidades profesionales IV**
+- Gestión de proyectos en astronomía
+- Colaboraciones internacionales en ciencia
+- Estrategias para obtener financiamiento y becas
+- Ética en la investigación astronómica
 
-### Semana 11: Cosmología: Expansión del universo, ley de Hubble-Lemaitre
-- El modelo estándar de la cosmología
-- Materia oscura y energía oscura
-- El universo temprano y la inflación cósmica
+## Semana 13
+**Cosmología I**
+- El modelo del Big Bang
+- Expansión del universo y ley de Hubble-Lemaître
+- La radiación cósmica de fondo
+- Nucleosíntesis primordial
 
-### Semana 12: Liderazgo en proyectos internacionales de astronomía
-- Casos de estudio: DESI, LSST, SKA
-- Negociación y diplomacia en colaboraciones científicas
-- Gestión de equipos multiculturales y multidisciplinarios
+## Semana 14
+**Cosmología II**
+- Materia oscura: evidencias y candidatos
+- Energía oscura y expansión acelerada del universo
+- Inflación cósmica
+- Modelos cosmológicos y el futuro del universo
 
-### Semana 13: Telescopios y observatorios: Tecnologías de observación astronómica
-- Telescopios terrestres y espaciales
-- Radioastronomía y observatorios de neutrinos
-- Detección de ondas gravitacionales
-
-### Semana 14: Captación de recursos: Estrategias para obtener financiamiento y apoyo para proyectos
-- Escritura de propuestas de financiamiento exitosas
-- Estrategias para obtener tiempo de observación
-- Colaboraciones entre academia e industria
-
-### Semana 15: Astrofísica de Altas Energías
-- Física de rayos cósmicos
-- Astronomía de rayos X y gamma
-- Fenómenos transitorios de alta energía
-
-### Semana 16: El futuro de la astronomía: Identificación de tendencias y oportunidades emergentes
-- Inteligencia artificial y aprendizaje automático en astronomía
+## Semana 15
+**Fronteras de la astronomía**
+- Ondas gravitacionales: teoría y detección
 - Astronomía multi-mensajero
-- Exploración espacial y astrobiología
-- Desarrollo de carrera en astronomía y astrofísica
+- Grandes proyectos astronómicos del futuro
+- Preguntas abiertas y desafíos en la astronomía moderna
 
-## V. Metodología
-
-Las clases combinarán diversos métodos de enseñanza para maximizar el aprendizaje y el desarrollo de habilidades:
-
-- Clases magistrales: Exposiciones sobre temas astronómicos y de liderazgo, seguidas de sesiones de preguntas y respuestas.
-- Talleres prácticos: Sesiones interactivas para aplicar conceptos y desarrollar habilidades.
-- Estudios de caso: Análisis de proyectos astronómicos reales y situaciones de liderazgo en la ciencia.
-- Proyectos grupales: Colaboración en equipos para resolver problemas y desarrollar propuestas de investigación.
-- Presentaciones de estudiantes: Oportunidades para practicar habilidades de comunicación científica.
-- Discusiones y debates: Fomento del pensamiento crítico y la argumentación sobre temas astronómicos y éticos.
-- Mentoría: Sesiones individuales y grupales con el Dr. Forero Romero para guía personalizada.
-
-
+## Semana 16
+**Habilidades profesionales V**
+- Comunicación científica efectiva
+- Técnicas para presentar ideas complejas
+- Escritura científica para publicaciones y propuestas
+- Presentaciones orales efectivas
 
 ## VII. Bibliografía
 
