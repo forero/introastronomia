@@ -23,3 +23,5 @@
 [Exploring the Cosmic Web: Astronomy, Cosmology, and Artificial Intelligence](https://docs.google.com/presentation/d/1vHHRrfzMmLeCiL-PfMBUUjyDR2ZolXcACz_QHdyysdU/edit?usp=sharing)
 
 [12 - Cosmología Física](https://docs.google.com/presentation/d/1t0QTAxXGv0I4wkcXOsYuY57iuvy-XN0oAYp81Z-cHQw/edit?usp=sharing)
+
+[Carreras en Astronomía](https://docs.google.com/presentation/d/1nhz7Q7_SFfQPVl_VSSNyDD4sGZHuobh-TWlwLLaZ9lk/edit?usp=sharing) 
