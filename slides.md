@@ -20,8 +20,11 @@
 
 [11 - Galaxias y la red cósmica](https://docs.google.com/presentation/d/1QeAgByxcJSbuUgTm3mFf5koqCBUpMo7LI8MCYBZVYWY/edit?usp=sharing)
 
-[Exploring the Cosmic Web: Astronomy, Cosmology, and Artificial Intelligence](https://docs.google.com/presentation/d/1vHHRrfzMmLeCiL-PfMBUUjyDR2ZolXcACz_QHdyysdU/edit?usp=sharing)
-
 [12 - Cosmología Física](https://docs.google.com/presentation/d/1t0QTAxXGv0I4wkcXOsYuY57iuvy-XN0oAYp81Z-cHQw/edit?usp=sharing)
 
-[Carreras en Astronomía](https://docs.google.com/presentation/d/1nhz7Q7_SFfQPVl_VSSNyDD4sGZHuobh-TWlwLLaZ9lk/edit?usp=sharing) 
+[13 - Exploring the Cosmic Web: Astronomy, Cosmology, and Artificial Intelligence](https://docs.google.com/presentation/d/1vHHRrfzMmLeCiL-PfMBUUjyDR2ZolXcACz_QHdyysdU/edit?usp=sharing)
+
+[14 - Futuro de la astronomía](https://docs.google.com/presentation/d/1pZxPE2b8fcri-IW-kVmqAZEtghWO56RlIkgvdv6araU/edit?usp=sharing)
+
+[15 - Carreras en Astronomía](https://docs.google.com/presentation/d/1nhz7Q7_SFfQPVl_VSSNyDD4sGZHuobh-TWlwLLaZ9lk/edit?usp=sharing) 
+
